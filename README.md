@@ -27,3 +27,18 @@ A página ainda não está totalmente responsiva para mudanças de telas. Estou 
 Aqui está uma captura de tela da minha landing page:
 
 ![Página de Apresentação](imagem/site-html.jpg)
+
+---
+
+## 🚀 **Como Visualizar o Projeto**
+
+### Versão Online  
+Você pode acessar a versão online do projeto aqui: [**Demonstração ao Vivo**](https://projeto-no-figma.netlify.app/)
+
+> **Nota:** Para visualizar o design corretamente, pode ser necessário ajustar o zoom do navegador (recomendado: 75% ou 80%), dependendo do tamanho da sua tela.
+
+### Rodar Localmente  
+Se preferir, também pode executar o projeto localmente:  
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/tobiasprandini/Projeto-no-Figma.git
