@@ -18,3 +18,9 @@ como apresentação profissional de um desenvolvedor front-end.
 - Design responsivo para diferentes dispositivos  
 - Seções bem estruturadas, incluindo introdução, portfólio e contato  
 - Navegação simples e intuitiva  
+
+---
+
+Aqui está uma captura de tela da minha landing page:
+
+![Página de Apresentação](imagem/site-html.jpg)
